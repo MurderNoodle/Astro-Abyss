@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" {IF CLASSES}class="classes"{/IF}>
+
+<body>
+
+   <title id="base-game">ASTRO ABYSS</title>
+<body>
+
+<h1 id="h1">ASTRO ABYSS THE DATING SPACE ADVENTURE</h1>
+  <ul>
+    <li><a href="https://www.patreon.com/MurderNoodleArts?fan_landing=true">PATREON</l1></a>
+  <li><a href="file:///media/archive/CodePen_Export_oNeYgZp.zip/CodePen_Export_oNeYgZp/src/index.html">MEET THE CHARACTERS</li></a>
+  <li><a href="_blank">ARTIST SOCIAL</a></li>
+  </ul>
+  <div>
+  </div>
+<p id="p">Welcome, space adventurer to an epic story that you control. Your task is to manage your newly made colony on the moon. While also encountering many different partners and friends along the way.</p>
+  
+
+  <script>
+    {EDITOR JS}
+    //# sourceURL=pen.js
+  </script>
+
+</body>
+
+</html>
